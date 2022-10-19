@@ -1,0 +1,21 @@
+{
+  "name": "asket-car-coat-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessio-libardi/asket-car-coat-notifier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alessio-libardi/asket-car-coat-notifier/issues"
+  },
+  "homepage": "https://github.com/alessio-libardi/asket-car-coat-notifier#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
