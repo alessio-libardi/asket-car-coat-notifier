@@ -1,3 +1,7 @@
+**Archived**: I've bought the Car Coat.
+
+---
+
 # Asket Car Coat notifier
 
 This is a simple project that checks every hour if the asket car coat is back in stock and notifies me.
